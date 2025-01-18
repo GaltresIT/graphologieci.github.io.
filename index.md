@@ -9,7 +9,7 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 published: true
 Title: BUREAU AFRIQUE D’EXPERTISES JUDICIAIRES ET D’INVESTIGATIONS
-url: graphologie.ci/
+url: graphologieci.com/
 ---
 
 # BUREAU AFRIQUE D’EXPERTISES JUDICIAIRES ET D’INVESTIGATIONS
