@@ -15,7 +15,7 @@ Cocody,
 Abidjan, 
 CIV 01 BP 8183 Abidjan 01 
 
-E-mail : info@graphologie.ci 
+E-mail : info@graphologieci.com
 T: +225 0506-29 71 / +225 0794-9350 / +225 5505-4949
 
 | Jour      | Heures d'ouverture |
